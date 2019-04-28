@@ -1,2 +1,2 @@
-h1 Test .sol contract
+***Test .sol contract***
 
